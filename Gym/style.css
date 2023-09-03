@@ -1,0 +1,161 @@
+.backg{
+    padding-bottom: 5%;
+}
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+.navi{
+    padding-left: 30%;
+    padding-top: 1%;
+}
+.Home{
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.txt{
+    padding-top: 10%;
+    padding-left: 10%;
+    font-size: 70px;
+    font-family: fantasy;
+    color: rgb(29, 23, 23);
+}
+.h4{
+    padding-left: 10%;
+    font-style: italic;
+}
+.text{
+    padding-left: 10%;
+}
+button{
+    background-color: #0c3bbd;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10%;
+}
+.main{
+    background-color: #e9e9f0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    margin-left: 15%;
+}
+.about{
+    margin-left: 10%;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cad{
+    padding-top: 5%;
+    padding-bottom: 5%;   
+}
+.train{
+    display: flex;
+    background-color: #daf1e0;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.left{
+    padding-left: 12%;
+}
+b{
+    font-size: 30px;
+}
+.day{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(7, 196, 7);
+}
+.exe{
+    padding-top: 8%;
+    padding-left: 9%;
+}
+.client{
+    padding: 5%;
+    text-align: center;
+}
+.hh4{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cls{
+    display: flex;
+    padding-left: 12%;
+}
+.flx{
+    display: flex;
+    padding-left: 12%;
+    padding-top: 1%;
+}
+.test{
+    padding-top: 4%;
+    background-color: #0453fc0e;
+}
+.hh5{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.view{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+    padding-left: 4%;
+    }
+.contact{
+    display: flex;
+    padding-bottom: 3%;
+}
+.me{
+    padding: 5%;
+    padding-left: 15%;
+}
+.hh1{
+    font-family: fantasy;
+    font-size: 40px;
+}
+.hh2{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.enroll{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.hh3{
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inp{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 120%;
+    padding-left: 5%;
+}
+.inpu{
+    padding-top: 5%;
+    padding-bottom: 30%;
+    padding-right: 120%;
+    padding-left: 5%;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    color: white;
+    background-color: rgb(60, 60, 223);
+}
